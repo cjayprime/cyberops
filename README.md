@@ -1,4 +1,6 @@
 ### The CyberOps Team Freelancer Repo
+> **`Rules`**
+> **`Standards`**
 > **`Developers`**
 
 ##### Nna Chijioke E.
